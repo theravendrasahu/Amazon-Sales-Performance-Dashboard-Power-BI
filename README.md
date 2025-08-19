@@ -1,4 +1,3 @@
-# Drive Link- https://drive.google.com/drive/folders/1JoW_m70XNP484-hGHkJP_RxQLIasSHn-
 # 📊 Amazon Sales Analysis Dashboard – Power BI
 ![Amazon dashboard page 1](https://github.com/user-attachments/assets/4ce61fb7-aa9d-4bd3-a90f-b8b173b79084)
 
