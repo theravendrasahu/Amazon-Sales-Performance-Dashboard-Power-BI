@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1257" height="713" alt="image" src="https://github.com/user-attachments/assets/98ddd9b6-7ec2-40ed-b3f0-31779d75bce5" />
+
 
 # 📊 Amazon Sales Analysis Dashboard – Power BI
 
