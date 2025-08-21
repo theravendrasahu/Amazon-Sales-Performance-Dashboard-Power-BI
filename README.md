@@ -1,5 +1,6 @@
+![Uploading image.png…]()
+
 # 📊 Amazon Sales Analysis Dashboard – Power BI
-![Amazon dashboard page 1](https://github.com/user-attachments/assets/4ce61fb7-aa9d-4bd3-a90f-b8b173b79084)
 
 📝 Project Description
 This Power BI project analyzes Amazon sales data using interactive dashboards. It consists of three pages, displaying key metrics such as total sales, seller count, sales trends, and product performance. The dataset includes sales by city and state, product categories, and return analysis, providing valuable insights for business decisions.
